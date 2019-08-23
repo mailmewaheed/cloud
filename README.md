@@ -1,2 +1,2 @@
-# cloud
-Documents related to cloud
+# MyCloud
+This repository is for codes related to cloud computing
